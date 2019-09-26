@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG] "
-labels: bug
+labels: type:bug
 assignees: ''
 
 ---
@@ -24,6 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Specs (please complete the following information):**
+ - Oakwood version [e.g. v1.22.0]
  - OS: [e.g. Windows 10]
  - Game version [e.g. Steam, GOG]
 
